@@ -1,6 +1,6 @@
 {
-    "name": "dice_roll_v3",
-    "short_name": "dice_roll_v3",
+    "name": "encryption_decryption_app",
+    "short_name": "encryption_decryption_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
