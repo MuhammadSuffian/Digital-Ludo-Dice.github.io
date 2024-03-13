@@ -1,6 +1,6 @@
 {
-    "name": "encryption_decryption_app",
-    "short_name": "encryption_decryption_app",
+    "name": "password_checker",
+    "short_name": "password_checker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
