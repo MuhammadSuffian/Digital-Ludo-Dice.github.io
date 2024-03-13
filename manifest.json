@@ -1,6 +1,6 @@
 {
-    "name": "dice_roll_v1",
-    "short_name": "dice_roll_v1",
+    "name": "password_checker",
+    "short_name": "password_checker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
