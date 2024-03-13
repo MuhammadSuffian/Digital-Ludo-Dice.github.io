@@ -1,6 +1,6 @@
 {
-    "name": "password_checker",
-    "short_name": "password_checker",
+    "name": "dice_ludo",
+    "short_name": "dice_ludo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
